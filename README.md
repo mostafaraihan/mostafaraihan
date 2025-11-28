@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MostafaRaihan/MostafaRaihan/blob/main/GitHubNEw.png?raw=true" alt="Mostafa Raihan GitHub Cover Banner" width="100%" />
+  <img src="https://github.com/mostafaraihan/MostafaRaihan/blob/main/Cover.png?raw=true" alt="Mostafa Raihan GitHub Cover Banner" width="100%" />
 </p>
 
 # <a href="https://mostafaraihan.github.io/MostafaRaihan/">👋 Hi, I'm Mostafa Raihan</a>
