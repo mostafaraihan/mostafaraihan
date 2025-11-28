@@ -4,39 +4,38 @@
 
 # <a href="https://mostafaraihan.github.io/MostafaRaihan/">👋 Hi, I'm Mostafa Raihan</a>
 
-**Full-Stack Web Developer | Python Django Backend & React/Next.js Frontend**  
+**Full-Stack Web Developer | Python Django & DRF Backend | React/Next.js Frontend**  
 
-I craft **modern, responsive, and secure web applications** with a focus on **full-stack development, clean code, and performance optimization**.  
-
+I build robust, scalable, and secure web applications, combining modern frontends with clean and efficient backends. My focus is on performance, usability, and maintainable code.
 ---
 
 ### 🛠 What I Do
 - 💻 **Full-Stack Development:** Modern web apps with clean, maintainable code  
 - 🛠 **Backend & APIs:** Django REST Framework, MySQL, MongoDB, Postman.
 - 🎨 **Frontend Magic:** React.js, Next.js, responsive designs, smooth animations  
-- 🚀 **Deployment:** Vercel, Netlify 
-- 📚 **Always Learning:** GraphQL, Serverless architecture, Advanced REST APIs  
+- 🚀 **Deployment:** Git, Github, Vercel, Netlify 
+- 📚 **Always Learning:** Scelable architecture, Advanced REST APIs  
 
 ---
 
 <p align="center">
- 💡 I turn ideas into interactive digital experiences and love exploring new tech stacks.
+ 💡 I thrive on problem-solving, optimization, and building end-to-end solutions.
 </p>
 
 ---
 
 ### 🔗 Let’s Connect!
 <p align="center">
-  <a href="mailto:mostafraihan.bd@gmail.com" target="_blank" title="Email Mostafa Raihan">
+  <a href="mailto:raihan.invite@gmail.com" target="_blank" title="Email Mostafa Raihan">
     <img src="https://img.icons8.com/color/64/000000/gmail-new.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Email"/>
   </a>
-  <a href="https://www.facebook.com/mostafaraihanbd" target="_blank" title="Facebook Mostafa Raihan">
+  <a href="https://www.facebook.com/Mostafa.Raihan.07" target="_blank" title="Facebook Mostafa Raihan">
     <img src="https://img.icons8.com/color/64/000000/facebook-new.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Facebook"/>
   </a>
   <a href="https://mostafaraihan.netlify.app" target="_blank" title="Portfolio Website">
     <img src="https://img.icons8.com/color/64/000000/domain.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/mostafaraihanbd" target="_blank" title="LinkedIn Mostafa Raihan">
+  <a href="https://www.linkedin.com/in/mostafa-raihan" target="_blank" title="LinkedIn Mostafa Raihan">
     <img src="https://img.icons8.com/color/64/000000/linkedin.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="LinkedIn"/>
   </a>
 </p>
@@ -108,24 +107,6 @@ I craft **modern, responsive, and secure web applications** with a focus on **fu
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:mostafraihan.bd@gmail.com" target="_blank" title="Email Mostafa Raihan">
-    <img src="https://img.icons8.com/color/64/000000/gmail-new.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Email"/>
-  </a>
-  <a href="https://www.facebook.com/mostafaraihanbd" target="_blank" title="Facebook Mostafa Raihan">
-    <img src="https://img.icons8.com/color/64/000000/facebook-new.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Facebook"/>
-  </a>
-  <a href="https://mostafaraihan.netlify.app" target="_blank" title="Portfolio Website">
-    <img src="https://img.icons8.com/color/64/000000/domain.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mostafaraihanbd" target="_blank" title="LinkedIn Mostafa Raihan">
-    <img src="https://img.icons8.com/color/64/000000/linkedin.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="LinkedIn"/>
-  </a>
-</p>
-
-
----
 
 <p align="center">
   💡 *Thanks for visiting! Let’s build amazing full-stack applications together!* 🚀
