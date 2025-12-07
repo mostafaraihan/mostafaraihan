@@ -24,24 +24,6 @@ I build robust, scalable, and secure web applications, combining modern frontend
 
 ---
 
-### 🔗 Let’s Connect!
-<p align="center">
-  <a href="mailto:raihan.invite@gmail.com" target="_blank" title="Email Mostafa Raihan">
-    <img src="https://img.icons8.com/color/64/000000/gmail-new.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Email"/>
-  </a>
-  <a href="https://www.facebook.com/Mostafa.Raihan.07" target="_blank" title="Facebook Mostafa Raihan">
-    <img src="https://img.icons8.com/color/64/000000/facebook-new.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Facebook"/>
-  </a>
-  <a href="https://mostafaraihan.netlify.app" target="_blank" title="Portfolio Website">
-    <img src="https://img.icons8.com/color/64/000000/domain.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mostafa-raihan" target="_blank" title="LinkedIn Mostafa Raihan">
-    <img src="https://img.icons8.com/color/64/000000/linkedin.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
 ## 🚀 My Tech Stack
 
 <table align="center">
@@ -70,6 +52,23 @@ I build robust, scalable, and secure web applications, combining modern frontend
 
 ---
 
+### 🔗 Let’s Connect!
+<p align="center">
+  <a href="mailto:raihan.invite@gmail.com" target="_blank" title="Email Mostafa Raihan">
+    <img src="https://img.icons8.com/color/64/000000/gmail-new.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/Mostafa.Raihan.07" target="_blank" title="Facebook Mostafa Raihan">
+    <img src="https://img.icons8.com/color/64/000000/facebook-new.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Facebook"/>
+  </a>
+  <a href="https://mostafaraihan.netlify.app" target="_blank" title="Portfolio Website">
+    <img src="https://img.icons8.com/color/64/000000/domain.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mostafa-raihan" target="_blank" title="LinkedIn Mostafa Raihan">
+    <img src="https://img.icons8.com/color/64/000000/linkedin.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
 
 <p align="center">
   💡 *Thanks for visiting! Let’s build amazing full-stack applications together!* 🚀
