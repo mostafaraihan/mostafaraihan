@@ -11,7 +11,7 @@ I build robust, scalable, and secure web applications, combining modern frontend
 
 ### 🛠 What I Do
 - 💻 **Full-Stack Development:** Modern web apps with clean, maintainable code  
-- 🛠 **Backend & APIs:** Django REST Framework, MySQL, MongoDB, Postman.
+- 🛠 **Backend & APIs:** Django, Django REST Framework, MySQL, MongoDB, Postman
 - 🎨 **Frontend Magic:** React.js, Next.js, responsive designs, smooth animations  
 - 🚀 **Deployment:** Git, Github, Vercel, Netlify 
 - 📚 **Always Learning:** Scelable architecture, Advanced REST APIs  
