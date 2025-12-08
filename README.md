@@ -2,79 +2,91 @@
   <img src="https://github.com/mostafaraihan/MostafaRaihan/blob/main/Cover.png?raw=true" alt="Mostafa Raihan GitHub Cover Banner" width="100%" />
 </p>
 
-# <a href="https://mostafaraihan.github.io/MostafaRaihan/">👋 Hi, I'm Mostafa Raihan</a>
-
-**Full-Stack Web Developer | Python Django & DRF Backend | React/Next.js Frontend**  
-
-I build robust, scalable, and secure web applications, combining modern frontends with clean and efficient backends. My focus is on performance, usability, and maintainable code.
----
-
-### 🛠 What I Do
-- 💻 **Full-Stack Development:** Modern web apps with clean, maintainable code  
-- 🛠 **Backend & APIs:** Django, Django REST Framework, MySQL, MongoDB, Postman
-- 🎨 **Frontend Magic:** React.js, Next.js, responsive designs, smooth animations  
-- 🚀 **Deployment:** Git, Github, Vercel, Netlify 
-- 📚 **Always Learning:** Scelable architecture, Advanced REST APIs  
-
----
+<h1 align="center">👋 Hi, I'm <a href="https://mostafaraihan.github.io/MostafaRaihan/">Mostafa Raihan</a></h1>
+<h3 align="center">Full-Stack Developer | REST API Specialist | Backend-Focused</h3>
 
 <p align="center">
- 💡 I thrive on problem-solving, optimization, and building end-to-end solutions.
+I build <b>robust, scalable, and secure backend systems</b> using Django & Django REST Framework.  
+Frontend is a supporting tool – Tailwind CSS, Bootstrap, React, Next.js for complete full-stack delivery.
 </p>
 
 ---
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/mostafaraihan/mostafaraihan/output/github-contribution-grid-snake-dark.svg)
+## 💻 Core Expertise (Backend First)
+
+- 🟩 **Django Development** – Models, ORM, Signals, Admin, Middleware, DRF  
+- 🔗 **REST APIs & Architecture** – ViewSets, Serializers, Routers, JWT/Auth, Permissions  
+- 🗄 **Databases** – MySQL, PostgreSQL, MongoDB (Query optimization, indexing)  
+- 🛡 **Security & Performance** – Authentication, CORS, Rate Limiting, HTTPS, Caching  
+- ⚙️ **System Design** – Scalable backend systems, clean architecture, task automation  
+- 🚀 **Deployment** – GitHub Actions, Vercel, Netlify  
 
 ---
 
-## 🚀 My Tech Stack
+## 🎨 Frontend Skills (Secondary)
 
+- ⚛️ **React.js** – Component-based, Hooks  
+- 🌐 **Next.js** – Server-side rendering, optimized performance  
+- 🎨 **Bootstrap** – Clean UI, responsive design  
+- 🌬 **Tailwind CSS** – Modern utility-first styling  
+- 💡 **CSS / JavaScript** – Rapid styling and interactivity  
+
+> *Backend is my primary strength; frontend is a supporting skill.*
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mostafaraihan/mostafaraihan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="80%" />
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 🔥 Backend (Primary)
 <table align="center">
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="100" alt="HTML Icon"/><br>HTML</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="100" alt="CSS Icon"/><br>CSS</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="100" alt="JavaScript Icon"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="100" alt="React Icon"/><br>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="100" alt="Next.js Icon"/><br>Next.js</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="100" alt="Python Icon"/><br>Python</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="100" alt="Django Icon"/><br>Django</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="100" alt="MongoDB Icon"/><br>Mongodb</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="100" alt="MySQL Icon"/><br>MySQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="100" alt="Postman Icon"/><br>Postman</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="100" alt="Vercel Icon"/><br>Vercel</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="100" alt="Netlify Icon"/><br>Netlify</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="100" alt="Git Icon"/><br>Git</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="100" alt="GitHub Icon"/><br>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="100" alt="VSCode Icon"/><br>VSCode</td>
-  </tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=python" width="80"/><br>Python</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=django" width="80"/><br>Django</td>
+  <td align="center"><img src="https://hexmos.com/freedevtools/svg_icons/djangorest/djangorest-plain.svg" width="70" alt="DRF"/>
+<br>DRF</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="80"/><br>MySQL</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="80"/><br>PostgreSQL</td>
+</tr>
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="80"/><br>MongoDB</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="80"/><br>Postman</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=git" width="80"/><br>Git</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=github" width="80"/><br>GitHub</td>
+</tr>
+</table>
+
+### 🎨 Frontend (Secondary)
+<table align="center">
+<tr>
+  <td align="center"><img src="https://skillicons.dev/icons?i=react" width="70"/><br>React</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="70"/><br>Next.js</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="70"/><br>Bootstrap</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="70"/><br>Tailwind</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=js" width="70"/><br>JavaScript</td>
+</tr>
 </table>
 
 ---
 
-### 🔗 Let’s Connect!
+## 🔗 Connect With Me  
+
 <p align="center">
-  <a href="mailto:raihan.invite@gmail.com" target="_blank" title="Email Mostafa Raihan">
-    <img src="https://img.icons8.com/color/64/000000/gmail-new.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Email"/>
-  </a>
-  <a href="https://www.facebook.com/Mostafa.Raihan.07" target="_blank" title="Facebook Mostafa Raihan">
-    <img src="https://img.icons8.com/color/64/000000/facebook-new.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Facebook"/>
-  </a>
-  <a href="https://mostafaraihan.netlify.app" target="_blank" title="Portfolio Website">
-    <img src="https://img.icons8.com/color/64/000000/domain.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mostafa-raihan" target="_blank" title="LinkedIn Mostafa Raihan">
-    <img src="https://img.icons8.com/color/64/000000/linkedin.png" width="60" style="border-radius:15px; box-shadow: 2px 2px 8px #aaa;" alt="LinkedIn"/>
-  </a>
+  <a href="mailto:raihan.invite@gmail.com"><img src="https://img.icons8.com/color/64/gmail-new.png" width="50" alt="Email"/></a>
+  <a href="https://www.facebook.com/Mostafa.Raihan.07"><img src="https://img.icons8.com/color/64/facebook-new.png" width="50" alt="Facebook"/></a>
+  <a href="https://mostafaraihan.netlify.app"><img src="https://img.icons8.com/color/64/domain.png" width="50" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mostafa-raihan"><img src="https://img.icons8.com/color/64/linkedin.png" width="50" alt="LinkedIn"/></a>
 </p>
 
 ---
 
-
 <p align="center">
-  💡 *Thanks for visiting! Let’s build amazing full-stack applications together!* 🚀
+  💡 <i>Backend drives everything — frontend completes the solution. Always open for challenging backend & API projects.</i>  
 </p>
